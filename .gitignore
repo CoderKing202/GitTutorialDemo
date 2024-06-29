@@ -1,2 +1,3 @@
 *.log
-demofolder/
+/demofolder
+static2/demofolder
